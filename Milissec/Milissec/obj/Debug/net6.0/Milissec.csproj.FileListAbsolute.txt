@@ -1,0 +1,15 @@
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\bin\Debug\net6.0\Milissec.exe
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\bin\Debug\net6.0\Milissec.deps.json
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\bin\Debug\net6.0\Milissec.runtimeconfig.json
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\bin\Debug\net6.0\Milissec.dll
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\bin\Debug\net6.0\Milissec.pdb
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\Milissec.csproj.AssemblyReference.cache
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\Milissec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\Milissec.AssemblyInfoInputs.cache
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\Milissec.AssemblyInfo.cs
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\Milissec.csproj.CoreCompileInputs.cache
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\Milissec.dll
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\refint\Milissec.dll
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\Milissec.pdb
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\Milissec.genruntimeconfig.cache
+C:\Users\rafael.leite\Source\Repos\DateRounderForSQL\Milissec\Milissec\obj\Debug\net6.0\ref\Milissec.dll
