@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rafael.leite\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\maria.pedroso\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafael.leite\\Source\\Repos\\DateRounderForSQL\\Milissec\\Milissec\\Milissec.csproj",
+      "projectUniqueName": "C:\\Users\\maria.pedroso\\Documents\\desafioJuntos\\DateRounderForSQL\\Milissec\\Milissec\\Milissec.csproj",
       "projectName": "Milissec",
-      "projectPath": "C:\\Users\\rafael.leite\\Source\\Repos\\DateRounderForSQL\\Milissec\\Milissec\\Milissec.csproj",
-      "packagesPath": "C:\\Users\\rafael.leite\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafael.leite\\Source\\Repos\\DateRounderForSQL\\Milissec\\Milissec\\obj\\",
+      "projectPath": "C:\\Users\\maria.pedroso\\Documents\\desafioJuntos\\DateRounderForSQL\\Milissec\\Milissec\\Milissec.csproj",
+      "packagesPath": "C:\\Users\\maria.pedroso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maria.pedroso\\Documents\\desafioJuntos\\DateRounderForSQL\\Milissec\\Milissec\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rafael.leite\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\maria.pedroso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
